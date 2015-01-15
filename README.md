@@ -6,3 +6,9 @@ The program will be run like this:
 Organization atchm_3803.txt "Batman" "Super Ted"
 
 The appplication was developed using the IntelliJ IDEA 14. The project can be imported by both Eclipse and IntelliJ Idea IDE. It can also be run on any Operating System and command line console.
+
+Instructions for importing the project into Eclipse:
+http://help.eclipse.org/juno/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-importproject.htm
+
+Instructions for importing the project into IntelliJ:
+https://confluence.jetbrains.com/display/IntelliJIDEA/Import+an+Existing+Project
